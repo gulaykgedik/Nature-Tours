@@ -8,6 +8,7 @@ Amacımız, doğa severlerin farklı turları ve açık hava etkinliklerini keş
 
 #  Özellikler
 <br>
+
 - **HTML**: Web sitesinin yapısı 
 
 - **CSS**: Tasarım ve düzen
