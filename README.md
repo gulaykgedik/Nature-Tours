@@ -8,10 +8,14 @@ Amacımız, doğa severlerin farklı turları ve açık hava etkinliklerini keş
 
 #  Özellikler
 <br>
-- **HTML**: Web sitesinin yapısı  
-- **CSS**: Tasarım ve düzen  
+- **HTML**: Web sitesinin yapısı 
+
+- **CSS**: Tasarım ve düzen
+    
 - **JavaScript**: Etkileşimli öğeler
-- **Duyarlı Tasarım (Responsive Design)**: Farklı ekran boyutlarına uyum sağlar.  
+  
+- **Duyarlı Tasarım (Responsive Design)**: Farklı ekran boyutlarına uyum sağlar.
+  
 
 # Ekran Kaydı
 <br>
